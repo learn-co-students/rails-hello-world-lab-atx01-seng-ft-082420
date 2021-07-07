@@ -45,4 +45,9 @@ group :development, :test do
   gem 'factory_bot'
   gem 'capybara'
   gem 'database_cleaner'
+
+  # gem 'libv8', '~> 8.4', '>= 8.4.255.0'
+  # gem 'therubyracer', '~> 0.12.3'
+  # gem 'execjs'
+  #gem 'therubyracer'
 end
